@@ -1,6 +1,6 @@
 
 
-## :green_heart: :woman_farmer: Welcom! star's Jandi Farm​ :woman_farmer: :green_heart:
+## :green_heart: :woman_farmer: Welcome! star's Jandi Farm​ :woman_farmer: :green_heart:
 
 
 
