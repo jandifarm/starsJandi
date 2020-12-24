@@ -41,7 +41,7 @@
 
 * 수업내용
 
-  ![](C:\Users\ADMIN\IdeaProjects\studyBoot\hello-spring\TIL_hello-spring\img\error1_h2Install.png)
+  ![](https://github.com/jandifarm/starsJandi/blob/main/hello-spring/TIL_hello-spring/img/error1_h2Install.png)
 
   
 
@@ -55,4 +55,4 @@
 
   * .bat 파일 실행
 
-    ![](C:\Users\ADMIN\IdeaProjects\studyBoot\hello-spring\TIL_hello-spring\img\error1_h2Install_compl.PNG)
+    ![](https://github.com/jandifarm/starsJandi/blob/main/hello-spring/TIL_hello-spring/img/error1_h2Install_compl.PNG)
