@@ -23,4 +23,7 @@
 
 * :woman_farmer: **농장 운영 기간**
   * 2020년 12월 21일(월) - 2020년 12월 27일(일)
-
+  
+  
+* :woman_farmer: **TIL 바로가기**
+  * [SpringBoot TIL](https://github.com/jandifarm/starsJandi/tree/main/hello-spring/TIL_hello-spring)
