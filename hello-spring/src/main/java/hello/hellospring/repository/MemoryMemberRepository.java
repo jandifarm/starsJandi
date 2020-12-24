@@ -1,49 +1,49 @@
 package hello.hellospring.repository;
-
 import hello.hellospring.domain.Member;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.Optional;
 
-@Repository
-public class MemoryMemberRepository implements MemberRepository{
-
-  //key(Long) value(Member)
-  private static Map<Long, Member> store = new HashMap<>();
-  private static long sequence = 0L;
-
-  @Override
-  public Member save(Member member) {
-
-    member.setId(++sequence);
-    store.put(member.getId(), member);
-    return member;
+class MemoryMemberRepositoryTest {
+  MemoryMemberRepository repository = new MemoryMemberRepository();
+  @AfterEach
+  public void afterEach() {
+    repository.clearStore();
   }
-
-  @Override
-  public Optional<Member> findById(Long id) {
-    //null이 반환 될 가능성이 있으면 ofNullable로 감싸서 전송
-    return Optional.ofNullable(store.get(id));
+  @Test
+  public void save() {
+    //given
+    Member member = new Member();
+    member.setName("spring");
+    //when
+    repository.save(member);
+    //then
+    Member result = repository.findById(member.getId()).get();
+    assertThat(member).isEqualTo(result);
   }
-
-  @Override
-  public Optional<Member> findByName(String name) {
-    //
-    return store.values().stream()
-        //lamda member.getName이 parameter로 넘어온 아이와 같은지 비교
-        .filter(member -> member.getName().equals(name))
-        //Map에서 돌면서 찾으면 Optional로 반환 / 없으면 optional에 null이 포함되서 반환
-        .findAny();
+  @Test
+  public void findByName() {
+    //given
+    Member member1 = new Member();
+    member1.setName("spring1");
+    repository.save(member1);
+    Member member2 = new Member();
+    member2.setName("spring2");
+    repository.save(member2);
+    //when
+    Member result = repository.findByName("spring1").get();
+    //then
+    assertThat(result).isEqualTo(member1);
   }
-
-  @Override
-  public List<Member> findAll() {
-    return new ArrayList<>(store.values());
-  }
-
-  public void clearStore(){
-    store.clear();
+  @Test
+  public void findAll() {
+    //given
+    Member member1 = new Member();
+    member1.setName("spring1");
+    repository.save(member1);
+    Member member2 = new Member();
+    member2.setName("spring2");
+    repository.save(member2);
+    //when
+    List<Member> result = repository.findAll();
+    //then
+    assertThat(result.size()).isEqualTo(2);
   }
 }

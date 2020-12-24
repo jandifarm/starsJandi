@@ -21,21 +21,22 @@ public class HelloController {
     return "hello-template";
   }
 
+
   @GetMapping("hello-string")
   @ResponseBody
-  public String helloString(@RequestParam("") String name){
-    return "hello" + name;
+  public String helloString(@RequestParam("name") String name) {
+    return "hello " + name;
   }
 
   @GetMapping("hello-api")
   @ResponseBody
-  public Hello helloApi(@RequestParam("name") String name){
+  public Hello helloApi(@RequestParam("name") String name) {
     Hello hello = new Hello();
     hello.setName(name);
     return hello;
   }
 
-  static class Hello{
+  static class Hello {
     private String name;
 
     public String getName() {
@@ -46,4 +47,5 @@ public class HelloController {
       this.name = name;
     }
   }
+
 }

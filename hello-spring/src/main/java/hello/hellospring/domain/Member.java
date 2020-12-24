@@ -1,17 +1,15 @@
 package hello.hellospring.domain;
-
 public class Member {
 
-  //시스템이 지정한 id
-  private long id;
-  //고객이 지정한 id
+  private Long id;
+
   private String name;
 
-  public long getId() {
+  public Long getId() {
     return id;
   }
 
-  public void setId(long id) {
+  public void setId(Long id) {
     this.id = id;
   }
 
