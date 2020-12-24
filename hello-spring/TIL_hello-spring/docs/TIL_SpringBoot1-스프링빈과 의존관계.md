@@ -17,7 +17,7 @@
 
 
 * :woman_farmer: **Spring Boot TIL 목록**
-  * 스프링 빈과 의존관:point_left:
+  * 스프링 빈과 의존관계:point_left:
   * [AOP]()
   * [수업 듣다가 막혔던 것들](https://github.com/jandifarm/starsJandi/blob/main/hello-spring/TIL_hello-spring/docs/TIL_SpringBoot3-%EC%88%98%EC%97%85%EB%93%A3%EB%8B%A4%EA%B0%80%20%EB%A7%89%ED%98%94%EB%8D%98%20%EA%B2%83%EB%93%A4.md)
 
