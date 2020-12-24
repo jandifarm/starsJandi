@@ -19,4 +19,5 @@
 * :woman_farmer: **Spring Boot TIL 목록**
   * [스프링 빈과 의존관계](https://github.com/jandifarm/starsJandi/blob/main/hello-spring/TIL_hello-spring/TIL_SpringBoot1-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B9%88%EA%B3%BC%20%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84.md)
   * [AOP]()
+  * [수업 듣다가 막혔던 것들]()
 
