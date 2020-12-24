@@ -3,6 +3,10 @@
 ## :green_heart: :woman_farmer: Welcome! star's Jandi Farm​ :woman_farmer: :green_heart:
 
 
+### :농장 운영기간
+
+#### 					:point_right: 2020년 12월 23일(수) ~ 
+
 
 
 
