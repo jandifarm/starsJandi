@@ -12,7 +12,7 @@
 
 * :woman_farmer: **농장 소개**
   * Spring Boot 기본 이해를 목적으로 Inflearn 강의를 학습 하고 정리하는 Spring Boot 잔디 농장 입니다
-* **[참고 강의 : Inflearn스프링입문](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/dashboard)**
+  * **[참고 강의 : Inflearn스프링입문](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/dashboard)**
   
 
 
