@@ -30,15 +30,15 @@
 ---
 
 
-12월 4주차 계획(12/21 ~ 12/27)
+### 12월 4주차 계획(12/21 ~ 12/27)
 휴식: 12/25(금) 크리스마스
 
-Spring Boot 강의(이론)
-자바 알고리즘-hackerrank_(WarmUp-easy) 완료
+* Spring Boot 강의(이론)
+* 자바 알고리즘-hackerrank_(WarmUp-easy) 완료
 
 
-12월 5주차 계획(12/28 ~ 1/3)
+### 12월 5주차 계획(12/28 ~ 1/3)
 휴식: 1/1(금) 새해
 
-Spring Boot 강의(실습)
-자바 알고리즘-hackerrank_(Implementation-easy) 완료
+* Spring Boot 강의(실습)
+* 자바 알고리즘-hackerrank_(Implementation-easy) 완료
