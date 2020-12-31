@@ -38,7 +38,7 @@
 
 
 ### 12월 5주차 계획(12/28 ~ 1/3)
-휴식: 1/1(금) 새해
+휴식: 12/31(목) 연말
 
 * Spring Boot 강의(실습)
 * 자바 알고리즘-hackerrank_(Implementation-easy) 완료
