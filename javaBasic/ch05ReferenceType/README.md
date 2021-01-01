@@ -14,5 +14,5 @@
 
 
 
-:point_right: [05.Reference Type TIL 바로가기]()
+:point_right: [05.Reference Type TIL 바로가기](https://github.com/lebcoco/TIL/blob/master/javaBasic/ch05ReferenceType/docs/TIL_ch05Array.md)
 
