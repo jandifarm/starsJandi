@@ -41,5 +41,14 @@
 휴식: 01/02(토)
 
 * Spring Boot 강의(실습)
-* 자바 알고리즘-hackerrank_(Implementation-easy) 완료 :​:x:​
+* 자바 알고리즘-hackerrank_(Implementation-easy) 완료 :x:
 * 자바 Basic
+
+### 2021년 1월 1주차 계획(1/4 ~ 1/8)
+
+휴식: 미정
+
+* 자바 Basic / 알고리즘-hackerrank_(WarmUp-easy) Review Document 작성
+* Front-End 기술스택 Skill-Up 시작
+  * jQuery, Javascript, Thymeleaf
+
