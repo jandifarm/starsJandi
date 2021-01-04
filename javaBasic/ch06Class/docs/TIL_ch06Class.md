@@ -18,9 +18,48 @@
 
 ## 06-1 객체지향프로그래밍
 
-**:heavy_check_mark: 클래스의 구성 멤버** 
+* **:heavy_check_mark: 클래스의 구성 멤버** 
+  * **필드**: 생성자, 메서드 전체에서 사용되며 객체가 소멸되지 않는 한 객체와 함께 존재.
+  * **생성자**: 클래스 이름으로 되어 있고, return 타입이 없다.
+  * **메소드**: 메소드는 객체 간의 데이터를 전달하는 수단. 외부로부터 매개값을 받아 실행에 이용하고, 실행 후 결과 값을 외부로 return할 수 있다. 
 
 <img src="C:\Users\ADMIN\IdeaProjects\jandifarm\TIL\javaBasic\ch06Class\img\class.jpg" style="zoom:67%;" />
+
+
+
+:heavy_check_mark: **public 접근제한자** : 파일 이름과 동일한 이름의 클래스 선언에만 붙인다.
+
+:heavy_check_mark: **객체 생성** : ①new 연산자로 객체 생성 ②new 연산자 뒤에는 생성자가 온다.  ③new 연산자로 생성된 객체는 **힙영역**에 생성. ④new 연산자는 힙 영역에 객체 생성 후 객체 번지를 return한다.
+
+* 예시
+
+  * Student.java
+
+    ```java
+    package sec01.exam01;
+    
+    public class Student {
+        
+    }
+    ```
+
+  * StudentExample.java
+
+    ```java
+    package sec01.exam01;
+    
+    public class StudentExample {
+    	public static void main(String[] args) {
+    		Student s1 = new Student();
+    		System.out.println("s1 변수가 Student 객체를 참조한다.");
+    		
+    		Student s2 = new Student();
+    		System.out.println("s2 변수가 Student 객체를 참조한다.");
+    	}
+    }
+    ```
+
+    :point_right: Student 클래스는 하나지만 new 연산자를 사용한 만틈 객체가 메모리에 생성된다.
 
 
 
@@ -28,7 +67,7 @@
 
 :heavy_check_mark: **필드** : 객체 고유 데이터를 저장하는 곳
 
-:heavy_check_mark: **필드 사용** : 클래스 외부에서 사용할 경우 객체 생성하고, 참조 변수를 통해 사용 
+:heavy_check_mark: **필드 선언** : ①클래스 중괄호 { }블록 어디서든 존재 ②생성자 선언, 메소드 선언 앞 뒤 모두 선언 가능 ③**But** 생성자, 메소드 중괄호{ }블록 내부에는 선언 불가.
 
 * 예시(확인문제②,③): Member클래스의 필드를 MemberExample클래스의 main()메소드에서 사용하는 경우
 
