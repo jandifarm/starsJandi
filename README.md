@@ -46,7 +46,7 @@
 
 ### 2021년 1월 1주차 계획(1/4 ~ 1/8)
 
-휴식: 미정
+휴식: 01/05(화)
 
 * 자바 Basic / 알고리즘-hackerrank_(WarmUp-easy) Review Document 작성
 * Front-End 기술스택 Skill-Up 시작
