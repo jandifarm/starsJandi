@@ -51,7 +51,19 @@
 휴식: 미정
 
 * 자바 Basic / 알고리즘-hackerrank_(WarmUp-easy) Review Document 작성
-* CloudIt 기술스택 기반 토이 프로젝트 제작
+* CloudIt 기술스택 기반 토이 프로젝트 제작 - 구조 짜기
 * 1/13 수 - daily101 문서작업 start
 * 1/13 목 - CodeMates21 스터디
+
+
+
+### 2021년 1월 4주차 계획(1/18 ~ 1/24)
+
+휴식: 미정
+
+* 자바 Basic / 알고리즘-hackerrank_(WarmUp-easy) Review Document 작성
+
+* CloudIt 기술스택 기반 토이 프로젝트 제작 - 화면 만들기
+
+  
 
