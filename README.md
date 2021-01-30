@@ -48,7 +48,7 @@
 
 ### 2021년 1월 3주차 계획(1/1 ~ 1/17)
 
-휴식: 미정
+휴식: 17일(일)
 
 * 자바 Basic / 알고리즘-hackerrank_(WarmUp-easy) Review Document 작성
 * CloudIt 기술스택 기반 토이 프로젝트 제작 - 구조 짜기
@@ -59,11 +59,28 @@
 
 ### 2021년 1월 4주차 계획(1/18 ~ 1/24)
 
+휴식: 23일(토)
+
+* 자바 Basic / 알고리즘-hackerrank_(WarmUp-easy) Review Document 작성 :x:
+* CloudIt 기술스택 기반 토이 프로젝트 제작 - 화면 만들기 :x:
+* SpringBoot Part1 완료 :o:
+
+
+
+### 2021년 1월 5주차 계획(1/25 ~ 1/31)
+
+휴식: 29일(금)
+
+* 자바 Basic / 알고리즘-hackerrank_(WarmUp-easy) Review Document 작성 :x:
+* CloudIt 기술스택 기반 토이 프로젝트 제작 - 화면 만들기 :x:
+* SpringBoot Part2 진행 :o:
+
+
+
+### 2021년 2월 1주차 계획(2/1 ~ 2/7)
+
 휴식: 미정
 
 * 자바 Basic / 알고리즘-hackerrank_(WarmUp-easy) Review Document 작성
-
 * CloudIt 기술스택 기반 토이 프로젝트 제작 - 화면 만들기
-
-  
-
+* SpringBoot Part2 완료
