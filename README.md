@@ -8,11 +8,11 @@
 
 
 
-:date: **농장 운영 기간: ** 2020년 12월 23일 (수) ~ 
+:date: 농장 운영 기간: 2020년 12월 23일 (수) ~ 
 
-:seedling: [**TIL Farm 바로가기**](https://github.com/lebcoco/TIL21)
+:seedling: [TIL Farm 바로가기](https://github.com/lebcoco/TIL21)
 
-:bookmark_tabs: **상세 계획: **
+:bookmark_tabs: 상세 계획:
 
 
 
