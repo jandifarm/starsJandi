@@ -95,5 +95,5 @@
 
 <span style="color:lightgray">CloudIt 기술스택 기반 토이 프로젝트 제작 - 화면 만들기</span>
 <span style="color:lightgray">SpringBoot Part2 완료</span>
-  * :연휴 때 하기
+  * :point_right: 연휴 때 하기
 * 연휴를 알차게 보냅시다.
