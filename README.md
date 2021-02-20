@@ -87,7 +87,7 @@
 
 
 
-### 8회차: 2021년 2월 2주차 계획(2/8 ~ 2/14)
+### 8회차: 2021년 2월 2주차 계획(2/7 ~ 2/13)
 
 휴식: 미정
 
@@ -95,3 +95,10 @@
 * <span style="color:lightgray">CloudIt 기술스택 기반 토이 프로젝트 제작 - 화면 만들기</span>
 * <span style="color:lightgray">SpringBoot Part2 완료</span>
   * :point_right: 연휴 때 하기. 연휴를 알차게 보냅시다.
+
+
+### 9회차: 2021년 2월 3주차 계획(2/14 ~ 2/20)
+
+휴식: 2/20(토)
+
+* <span style="color:lightgray">업무 내용 기록하기</span>
