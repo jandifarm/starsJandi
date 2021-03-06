@@ -51,8 +51,6 @@
 
 
 ### 5회차: 2021년 1월 4주차 계획(1/18 ~ 1/24)
->>>>>>> cab5ae1bd9ddb7bc79cfd990d6e2ec6a3eac424f
-
 휴식: 23일(토)
 
 * 자바 Basic / 알고리즘-hackerrank_(WarmUp-easy) Review Document 작성 :x:
@@ -62,8 +60,6 @@
 
 
 ### 6회차: 2021년 1월 5주차 계획(1/25 ~ 1/31)
->>>>>>> cab5ae1bd9ddb7bc79cfd990d6e2ec6a3eac424f
-
 휴식: 29일(금)
 
 * 자바 Basic / 알고리즘-hackerrank_(WarmUp-easy) Review Document 작성 :x:
