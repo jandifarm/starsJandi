@@ -81,9 +81,9 @@
 ### 8회차: 2021년 2월 2주차 계획(2/7 ~ 2/13)
 휴식: 미정
 
-* <span style="color:lightgray">자바 Basic / 알고리즘-hackerrank_(WarmUp-easy) Review Document 작성</span>
-* <span style="color:lightgray">CloudIt 기술스택 기반 토이 프로젝트 제작 - 화면 만들기</span>
-* <span style="color:lightgray">SpringBoot Part2 완료</span>
+* 자바 Basic / 알고리즘-hackerrank_(WarmUp-easy) Review Document 작성
+* CloudIt 기술스택 기반 토이 프로젝트 제작 - 화면 만들기
+* SpringBoot Part2 완료
   * :point_right: 연휴 때 하기. 연휴를 알차게 보냅시다.
 
 
