@@ -4,13 +4,11 @@
 
 
 
-> star's Jandi Farm에서는 TIL 활동을 통해 잔디 농장을 운영합니다.
+> star's Jandi Farm 잔디 농장입니다. :wink:
 
 
 
 :date: 농장 운영 기간: 2020년 12월 23일 (수) ~ 
-
-:seedling: [TIL Farm 바로가기](https://github.com/lebcoco/TIL21)
 
 :bookmark_tabs: 상세 계획:
 
