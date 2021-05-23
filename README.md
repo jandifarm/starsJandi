@@ -125,7 +125,6 @@
 <li>figma 실습</li>
 <li>design 레퍼런스 자료 정리</li>
 </details>
-
 ---
 
 <details>
@@ -138,7 +137,20 @@
 <li>google-UX week1~week4</li>
 <li>Figma-Lo-fi Prototype</li>
 <h4> 22회차: 2021년 5월 3주차 계획(05/16 ~ 05/22)</h4>
-<li>휴식: 05/17(월)</li>
+<li>휴식: 05/17(월)+20(목)</li>
 <li>figma design update</li>
-<li>google-UX week5~week5</li>
+<li>google-UX week5~week6</li>
+    <h4> 23회차: 2021년 5월 4주차 계획(05/23 ~ 05/29)</h4>
+<li>휴식: 05/00(?)</li>
+<li>google-UX</li>
+    <ul>
+        1. Lecture7 완료</br>
+        2. Lecture1~7 blog posting
+    </ul>
+    <li>portfolio</li>
+    <ul>
+                1. standard + free
+    </ul>
+
 </details>
+
